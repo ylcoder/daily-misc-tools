@@ -1,0 +1,6 @@
+.vscode
+.idea
+.venv
+.python
+.env
+.DS_Store
